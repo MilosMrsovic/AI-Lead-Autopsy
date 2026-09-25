@@ -40,7 +40,7 @@ One email. The numbers first, the full report attached.
 
 ![Report Email](screenshots/email_report.png)
 
-Inside the PDF, every deal gets its own page section: what happened, the primary failure, the evidence behind it, what else went wrong, and one fix that would have saved it.
+Inside the PDF, every deal gets its own section: what happened, the primary failure, the evidence behind it, what else went wrong, and one fix that would have saved it.
 
 ![Daily Lead Autopsy Report](screenshots/sample_report.png)
 
