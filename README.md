@@ -2,6 +2,8 @@
 
 **Every lost deal gets a cause of death.**
 
+Built by [Heaq Digital](https://heaqdigital.com), an automation studio for US service businesses. Full write-up: Lost deal analysis https://heaqdigital.com/lost-deal-analysis
+
 ---
 
 ## Case #1: Ana, $5,000
